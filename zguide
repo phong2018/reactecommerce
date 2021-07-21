@@ -1,0 +1,11 @@
+
+
+--------------
+$01. install reactEcommerce
+- install react project
+npx create-react-app reactecommerce
+- install boostrap react: https://react-bootstrap.github.io/getting-started/introduction/
+npm install react-bootstrap@next bootstrap@5.0.2
+import 'bootstrap/dist/css/bootstrap.min.css';
+- install router: https://reactrouter.com/web/guides/quick-start
+npm install react-router-dom
